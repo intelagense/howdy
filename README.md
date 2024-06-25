@@ -29,7 +29,7 @@ TBD
 
 Set up the bot by following the [Discord Developer Portal](https://discord.com/developers/docs/intro) guide.
 
-Copy the bot's token and paste it in a file called .env in the root directory of the project.
+Copy the bot's token and paste it into a file called .env in the root directory of the project.
 
 ### Run the bot:
 ```
@@ -41,6 +41,6 @@ TBD
 ## Usage (TBD)
 
 ## Contributing
-We welcome contributions to this project! If you have an idea for a new feature or have found a bug, please [open an issue (LINK HERE)]. If you'd like to contribute code, please create a pull request.
+We welcome contributions to this project! If you have an idea for a new feature or have found a bug, please [open an issue](https://github.com/intelagense/howdy/issues). If you'd like to contribute code, please create a pull request.
 
 ## License (TBD)
