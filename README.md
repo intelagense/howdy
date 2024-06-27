@@ -17,9 +17,9 @@ This project is written in Python using the [discord.py](https://github.com/Rap
 - TBD
 
 ### Installation
-1. Clone the repository and navigate to the directory:
+1. Clone the repository and navigate to the directory: 
 ```
-TBD
+git clone git@github.com:intelagense/howdy.git
 ```
 
 ### Install the dependencies:
@@ -40,6 +40,12 @@ TBD
 
 ## Usage (TBD)
 
+## File Structure 
+```
+howdy-bot/
+├── start here
+└── TBD
+```
 ## Contributing
 We welcome contributions to this project! If you have an idea for a new feature or have found a bug, please [open an issue](https://github.com/intelagense/howdy/issues). If you'd like to contribute code, please create a pull request.
 
