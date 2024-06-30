@@ -1,4 +1,4 @@
-![image](header-howdy.png)
+![image](img/header-howdy.png)
 
 The bot will send a welcome message to users once a certain time threshold or member count is reached. Additionally, the bot will apply emojis to the welcome message that match the emojis from the user's roles.
 
