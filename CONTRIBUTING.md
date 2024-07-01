@@ -9,25 +9,19 @@ Please take your time to read and follow our [Code of Conduct](CODE_OF_CONDUCT).
 
 
 ## Found a Bug?
-If you find a bug (sorry for that :sweat_smile:), you can contribute by [submitting an issue][submit-issue].
-If you are really into it, [submit a Pull Request][submit-pr] with your fix, we will be grateful forever.
+If you find a bug, you can contribute by [submitting an issue](submit-issue).
+If you are really into it, [submit a Pull Request](submit-pr) with your fix, we will be grateful forever.
 
 ## Documentation Never Ends
 When it comes to documentation, there is always room for improvement.
-You can feel free to [submit a Pull Request][submit-pr] with your documentation changes or even just [submit an issue][submit-issue].
-
-## Have a Great Idea?
-Feel like you know what feature is missing? Share your thoughts with us by [submitting an issue][submit-issue].
-Do you want to make sure your feature is implemented? Submit an issue with your implementation proposal.
-This will allow us to prevent duplication of work, discuss the details of the implementation, and even provide designs, if necessary.
-Discussing your proposal will make sure that your work will be accepted into the project.
+You can feel free to [submit a Pull Request](submit-pr) with your documentation changes or even just [submit an issue](submit-issue).
 
 ## Contribution Guideline
 
 ### Submitting an Issue
 
 Before submitting your issue, please check that it has not been reported already (open or closed).
-Please provide as many details as possible so we can act as soon as possible.
+Please provide as many details as possible so we can act immediately.
 
 ### Submitting a Pull Request
 
@@ -50,7 +44,7 @@ Before submitting a pull request, consider the following guidelines:
 Once everything is done, your work will be live and available to all Howdy users.
 
 ## Coding Rules
-Each repository has its own coding rules and formatters to automatically enforce them when running the tests.
+Each repository has its own coding rules and formatters to enforce them when running the tests automatically.
 As a general rule of thumb, we use
 
 ### Commit Messages
