@@ -5,18 +5,17 @@
 We have some ground rules to keep the discussion open and inclusive.
 Please take your time to read and follow our [Code of Conduct](CODE_OF_CONDUCT).
 
+## Contribution Guideline
+
 ## Where to Contribute?
 
-
 ## Found a Bug?
-If you find a bug, you can contribute by [submitting an issue](submit-issue).
-If you are really into it, [submit a Pull Request](submit-pr) with your fix, we will be grateful forever.
+If you find a bug, you can contribute by [submitting an issue]
+If you are really into it, [submit a Pull Request] with your fix, we will be grateful forever.
 
 ## Documentation Never Ends
 When it comes to documentation, there is always room for improvement.
-You can feel free to [submit a Pull Request](submit-pr) with your documentation changes or even just [submit an issue](submit-issue).
-
-## Contribution Guideline
+You can feel free to [submit a Pull Request] with your documentation changes or even just [submit an issue]
 
 ### Submitting an Issue
 
