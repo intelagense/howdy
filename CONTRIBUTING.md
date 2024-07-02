@@ -30,8 +30,8 @@ Before diving in, be sure to review our [Code of Conduct](CODE_OF_CONDUCT.md) to
 ### Documentation Never Ends [Suggesting Enhancements]
 
 When it comes to documentation, there is always room for improvement.
-- **Consider Creating an Issue:** If your enhancement is a major change, feel free to open an issue to discuss it with the project maintainers. [submit a Pull Request](https://github.com/intelagense/howdy/pulls)
-- **Open a Pull Request:** For smaller improvements or suggestions, you can create a pull request directly. [submit an Issue](https://github.com/intelagense/howdy/issues)
+- **Consider Creating an Issue:** If your enhancement is a major change, feel free to open an issue to discuss it with the project maintainers. [Submit a Pull Request](https://github.com/intelagense/howdy/pulls)
+- **Open a Pull Request:** For smaller improvements or suggestions, you can create a pull request directly. [Submit an Issue](https://github.com/intelagense/howdy/issues)
 
 ### Submitting a Pull Request
 
