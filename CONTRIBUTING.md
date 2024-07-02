@@ -1,34 +1,45 @@
 # Contributing to Howdy
 
+We're thrilled you're interested in contributing to Howdy! 
+This guide will help you understand how to effectively contribute, whether you're reporting a bug, suggesting an improvement, or submitting code changes.
 
 ## Code of Conduct
+
 We have some ground rules to keep the discussion open and inclusive.
-Please take your time to read and follow our [Code of Conduct](CODE_OF_CONDUCT).
+Before diving in, be sure to review our [Code of Conduct](CODE_OF_CONDUCT) to ensure a respectful and collaborative environment.
 
 ## Contribution Guideline
 
-## Where to Contribute?
+### Found a Bug?
 
-## Found a Bug?
-If you find a bug, you can contribute by [submitting an issue]
-If you are really into it, [submit a Pull Request] with your fix, we will be grateful forever.
+**Check for Existing Issues:** Search the existing issues list to see if someone has already reported the bug.
+**Open a New Issue:** If you can't find an existing issue, create a new one with a clear and descriptive title. [Submitting an Issue](https://github.com/intelagense/howdy/issues)
 
-## Documentation Never Ends
+**How to submit an issue?**
+
+1. **Navigate to the repository's issue list:** First, find the open-source project on GitHub. Then, under the repository name, click on "Issues".
+2. **Initiate a new issue:**  On the issues page, locate a button labeled "New issue" or something similar. Click on it to begin creating a new issue report.
+3. **Craft a clear and concise title:** Provide a simple and informative title that accurately reflects the issue you're encountering. The title should give maintainers a quick understanding of the problem.
+4. **Describe the issue thoroughly:**  In the issue description, provide a detailed explanation of the problem you've encountered. Here are some pointers for a comprehensive description:
+     - Steps to reproduce: Outline the exact steps required to replicate the issue. This allows maintainers to efficiently diagnose the problem.
+     - Expected vs. actual behavior: Describe what you anticipated to happen and what occurred.
+     - Code snippets and error messages (if applicable): If the issue is related to code, include relevant code snippets and any error messages encountered.
+     - Screenshots or screencasts (if helpful): For visual issues, screenshots or screencasts can significantly aid understanding.
+9. **Double-check and submit:**  Once you've meticulously described the issue, proofread your report for clarity and accuracy. When satisfied, submit the issue.
+
+### Documentation Never Ends [Suggesting Enhancements]
+
 When it comes to documentation, there is always room for improvement.
-You can feel free to [submit a Pull Request] with your documentation changes or even just [submit an issue]
-
-### Submitting an Issue
-
-Before submitting your issue, please check that it has not been reported already (open or closed).
-Please provide as many details as possible so we can act immediately.
+- **Consider Creating an Issue:** If your enhancement is a major change, feel free to open an issue to discuss it with the project maintainers. [submit a Pull Request](https://github.com/intelagense/howdy/pulls)
+- **Open a Pull Request:** For smaller improvements or suggestions, you can create a pull request directly. [submit an Issue](https://github.com/intelagense/howdy/issues)
 
 ### Submitting a Pull Request
 
 Before submitting a pull request, consider the following guidelines:
 
-1. To prevent duplication of work, please search for an existing PR (open or closed) that relates to yours.
-2. Make sure there is an issue describing your submission, whether it is a bug fix or a feature. Discussing the issue upfront will make the review process much faster.
-3. Make sure your pull request is addressing only a single concern.
+- To prevent duplication of work, please search for an existing PR (open or closed) that relates to yours.
+- Make sure there is an issue describing your submission, whether it is a bug fix or a feature. Discussing the issue upfront will make the review process much faster.
+- Make sure your pull request is addressing only a single concern.
  
  **How to submit a pull request?**
 
@@ -42,13 +53,14 @@ Before submitting a pull request, consider the following guidelines:
 
 Once everything is done, your work will be live and available to all Howdy users.
 
-## Coding Rules
+## Coding Standards
+
 Each repository has its own coding rules and formatters to enforce them when running the tests automatically.
-As a general rule of thumb, we use
+To ensure consistency and readability, we use [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) for most Python projects.
 
 ### Commit Messages
-We follow 
 
+We follow [Angular's commit message guidelines](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format). This leads to more readable messages and automatic changelog generation.
 
-Thank you for joining our journey.
+**🤠 Thank you for joining our journey! We appreciate your time and effort in making Howdy even better.**
 
