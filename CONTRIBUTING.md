@@ -6,7 +6,7 @@ This guide will help you understand how to effectively contribute, whether you'r
 ## Code of Conduct
 
 We have some ground rules to keep the discussion open and inclusive.
-Before diving in, be sure to review our [Code of Conduct](CODE_OF_CONDUCT) to ensure a respectful and collaborative environment.
+Before diving in, be sure to review our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and collaborative environment.
 
 ## Contribution Guideline
 
