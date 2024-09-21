@@ -1,11 +1,12 @@
 import discord
 import settings
 from discord.ext import commands
+import asyncio  # Import asyncio for adding delays
 
 # No need to worry about this for now. It was just a way to have clean teminal logs.
 logger = settings.logging.getLogger('bot')
 
-# This is going to be replaced with the actual emojis that the server uses.
+# Emojis required for the Welcome channel in Codédex
 emojis = {
     'Codédex Club': '<:codedex_club:1120725369381736590>',
     'Python': '<:python:1081697059272413244>',
@@ -48,9 +49,11 @@ def run():
                 roles = [
                     role.name for role in member.roles if role.name != '@everyone']
 
-                for role in roles:
+                for role in reversed(roles):
                     if role in emojis:
                         await message.add_reaction(emojis.get(role))
+                        # Add a 1 second delay to avoid 429 rate limit with custom emojis
+                        await asyncio.sleep(1)
 
             await bot.process_commands(message)
 
