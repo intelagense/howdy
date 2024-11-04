@@ -52,9 +52,8 @@ If the terminal gives you an error in the following steps, try switching to a di
 #### 2. Create the Virtual Environment
 
 In the terminal, navigate to your project directory (if not already there) and run the following command to create a virtual environment:
-
 ```sh
-py -3 -m venv .venv
+python -m venv venv_name
 ```
 
 here `.venv` is the name of your virtual environment.
@@ -62,9 +61,13 @@ here `.venv` is the name of your virtual environment.
 #### 3. Activate the Virtual Environment
 
 Activate the virtual environment using the following command:
-
+- On Windows 
 ```sh
-.venv\Scripts\activate
+venv_name\Scripts\activate
+```
+- On MacOS / Linux 
+```sh
+source venv_name/bin/activate
 ```
 
 After activation, you should see (.venv) at the beginning of the terminal prompt, indicating that the virtual environment is active.
@@ -76,6 +79,7 @@ VS Code needs to know that you are using a virtual environment. To select the in
 1. Press Ctrl+Shift+P to open the Command Palette.
 2. Type Python: Select Interpreter and select it.
 3. Choose the interpreter located in the env folder. It should look something like this:
+4. Python interpreter is set by default if you followed the above commands. Do this only if needed
    `.venv\Scripts\python.exe`
 
 #### 5. Deactivate the Virtual Environment
@@ -83,7 +87,7 @@ VS Code needs to know that you are using a virtual environment. To select the in
 When you are done working, you can deactivate the virtual environment by running:
 
 ```sh
-.venv\Scripts\deactivate
+deactivate
 ```
 
 ### Install and add packages

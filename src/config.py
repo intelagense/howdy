@@ -1,0 +1,12 @@
+class Emojis:
+    Codédex_Club = '<:codedex_club:1120725369381736590>'
+    Python = '<:python:1081697059272413244>'
+    HTML = '<:html:1081697119385157673>'
+    CSS = '<:css:1088318087905955850>'
+    JavaScript = '<:javascript:1116791242521583706>'
+    React = '<:react:1133083387633082478>'
+    SQL = '<:sql:1236748185800540273>'
+    CommandLine = '<:command_line:1177615909427359835>'
+    GitGitHub = '<:github:995770422077431809>'
+    GitHubStudentDeveloperPack = '<:github_student:1211046146558926878>'
+    ThirtyNitesOfCodeReminder = '<:30nitesofcode:1242335055792046210>'
