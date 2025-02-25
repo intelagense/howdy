@@ -17,6 +17,7 @@ emojis = {
     'SQL': '<:sql:1236748185800540273>',
     'Command Line': '<:command_line:1177615909427359835>',
     'Git & GitHub': '<:github:995770422077431809>',
+    'C++': '<:cpp:1293963629061865533>',
     'GitHub Student Developer Pack': '<:github_student:1211046146558926878>',
     '#30NitesOfCode Reminder': '<:30nitesofcode:1242335055792046210>'
 }
